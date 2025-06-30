@@ -106,5 +106,5 @@ if($text == ".restart"){
 $message->editText("♻️ Userbot Qayta Yuklandi.");
 $this->restart();
 }}}
-BasicEventHandler::startAndLoop('data');
+BasicEventHandler::startAndLoop('session.madeline');
 ?>
